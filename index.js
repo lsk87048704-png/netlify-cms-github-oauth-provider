@@ -1,4 +1,4 @@
-require('dotenv').config({ silent: true });
+
 const express = require('express');
 const app = express();
 const simpleOauthModule = require('simple-oauth2');
